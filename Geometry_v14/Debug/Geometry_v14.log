@@ -1,0 +1,5 @@
+﻿  main.cpp
+h:\c++\second_lab\geometry\geometry.h(36): error C3646: sides: неизвестный спецификатор переопределения
+h:\c++\second_lab\geometry\geometry.h(36): error C2143: синтаксическая ошибка: отсутствие "," перед "["
+h:\c++\second_lab\geometry\geometry.h(36): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+h:\c++\second_lab\geometry\geometry.h(36): error C2238: непредвиденные лексемы перед ";"
